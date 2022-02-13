@@ -1,7 +1,7 @@
 {
   "name": "tutorials-account-balances",
   "version": "0.0.4",
-  "description": "This project can be use as a starting po...",
+  "description": "Completing the SubQuery hero course",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc -b",
